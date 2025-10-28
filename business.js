@@ -1,4 +1,4 @@
-// Example Business Alerts / Opportunities
+// Example Business Alerts / Opportunities 
 const businessData = [
   {
     title: "Local Grocery Supply Tender",
@@ -92,3 +92,4 @@ function displayBusiness() {
 }
 
 displayBusiness();
+
