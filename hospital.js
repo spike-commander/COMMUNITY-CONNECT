@@ -1,4 +1,4 @@
-// Simulated hospital emergency availability data
+// Simulated hospital emergency availability data 
 const hospitalData = [
   {
     name: "City Care Hospital",
@@ -119,3 +119,4 @@ function displayHospitals() {
 }
 
 displayHospitals();
+
