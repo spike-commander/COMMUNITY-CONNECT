@@ -9,7 +9,7 @@ if (protectedPages.includes(currentPage)) {
   }
 }
 
-// Register User
+// Register User 
 const registerForm = document.getElementById("registerForm");
 if (registerForm) {
   registerForm.addEventListener("submit", (e) => {
@@ -52,3 +52,4 @@ if (logoutBtn) {
     window.location.href = "login.html";
   });
 }
+
