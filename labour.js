@@ -1,4 +1,4 @@
-// Simulated real job alerts
+// Simulated real job alerts 
 const jobData = [
   {
     title: "Construction Site Helper",
@@ -92,3 +92,4 @@ function displayJobs() {
 }
 
 displayJobs();
+
